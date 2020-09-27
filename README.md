@@ -8,6 +8,7 @@
 A blog
 -------
 This blog will contain everything I want to record.
+
 life, games, research, readings, and all the other non-sense
 
 
