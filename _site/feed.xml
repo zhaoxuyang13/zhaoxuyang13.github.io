@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xuyang's Blog</title>
-    <description>关于程序与设计、黑客与画家 | 黄玄，Web &amp; Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。</description>
+    <description>当下即是美好. 这里是煦扬的博客</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 06 Jan 2021 23:42:47 +0800</pubDate>
-    <lastBuildDate>Wed, 06 Jan 2021 23:42:47 +0800</lastBuildDate>
+    <pubDate>Wed, 06 Jan 2021 23:47:48 +0800</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2021 23:47:48 +0800</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -58,13 +58,13 @@ I am sure it will be an enjoyable read.&lt;/p&gt;
   &lt;p&gt;“Yeah It’s on. ”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;del&gt;Hux&lt;/del&gt;我的 Blog 就这么开通了。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Hux&lt;/del&gt;我 的Blog 就这么开通了。&lt;/p&gt;
 
 &lt;p&gt;&lt;del&gt;2015&lt;/del&gt;2020 年，&lt;del&gt;Hux&lt;/del&gt;ZXY 总算有个地方可以好好写点东西了。&lt;/p&gt;
 
 &lt;p&gt;感谢Hux的博客模版以及文案，还有刚刚结束的半年大四悠闲的咸鱼生活，让我终于在这个气温再次降下冰点的冬天夜晚，在吃完一根肉肠之后，不知道那根筋搭错了，心血来潮往这个九月二十七号建起的demo主页，塞了第一篇文章。时间有限（不然今晚没写完下次就又不知道啥时候了），就随便写点东西吧，也算是给2021年开个好头。&lt;/p&gt;
 
-&lt;p&gt;作为一个名义上的程序员（&lt;strong&gt;&lt;em&gt;不要问为什么措辞和Hux的第一篇博客那么像，他的文案写得真好&lt;/em&gt;&lt;/strong&gt;），大学过去了三年有余，竟然没有自己的个人主页或者博客，也没在业余时间写点有趣的小工具，说起来真是令人羞愧。去年暑假因为某些奇妙的原因和学弟们重新上了一门大二的课，一方面是比较空，另一方面是任爹说起咱程序员最好有个博客啥的记录点东西，就给自己的TODO list上加了这一条。也在开学不久就找了个模版，终于在半年之内开始填充这个模版了，真是可喜可贺。&lt;/p&gt;
+&lt;p&gt;作为一个名义上的程序员（&lt;em&gt;不要问为什么措辞和Hux的第一篇博客那么像，他的文案写得真好&lt;/em&gt;），大学过去了三年有余，竟然没有自己的个人主页或者博客，也没在业余时间写点有趣的小工具，说起来真是令人羞愧。去年暑假因为某些奇妙的原因和学弟们重新上了一门大二的课，一方面是比较空，另一方面是任爹说起咱程序员最好有个博客啥的记录点东西，就给自己的TODO list上加了这一条。也在开学不久就找了个模版，终于在半年之内开始填充这个模版了，真是可喜可贺。&lt;/p&gt;
 
 &lt;h3 id=&quot;关于主页模版&quot;&gt;关于主页模版&lt;/h3&gt;
 
@@ -78,7 +78,7 @@ I am sure it will be an enjoyable read.&lt;/p&gt;
 
 &lt;p id=&quot;build&quot;&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;正文&quot;&gt;正文&lt;/h2&gt;
+&lt;h3 id=&quot;正文&quot;&gt;正文&lt;/h3&gt;
 
 &lt;p&gt;接下来说说搭建这个博客的技术细节。&lt;/p&gt;
 
@@ -86,7 +86,7 @@ I am sure it will be an enjoyable read.&lt;/p&gt;
 
 &lt;p&gt;说完了&lt;/p&gt;
 
-&lt;h2 id=&quot;后记&quot;&gt;后记&lt;/h2&gt;
+&lt;h3 id=&quot;后记&quot;&gt;后记&lt;/h3&gt;
 
 &lt;p&gt;回顾这个博客的诞生，纯粹是出于&lt;del&gt;个人兴趣&lt;/del&gt;一个咸鱼的自我修养。作为一个没有获得过几个star，也没写过什么值得骄傲的代码的所谓程序员，我希望这是我开源生活的开始。作为一个高度健忘，而也没有什么长期的记日记习惯的23岁呆瓜，我希望能给未来的世界和未来的我留下一点点史料参考。&lt;/p&gt;
 
