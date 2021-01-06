@@ -12,6 +12,17 @@ This blog will contain everything I want to record.
 life, games, research, readings, and all the other non-sense
 
 
+
+TODOs
+------
+- [ ] 
+- [ ] Analytics: 百度统计和Google Analytics
+- [ ] Comment: disqus, 多说，或者其他的开源
+- [ ] Keynote: 想办法加个keynote？
+- [ ] Friends: to be updated
+- [ ] SideBar: avatar, mini
+
+
 License
 -------
 
